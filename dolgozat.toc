@@ -1,0 +1,115 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\contentsline {chapter}{\numberline {1.}Bevezet\IeC {\'e}s}{10}
+\defcounter {refsection}{0}
+\contentsline {chapter}{\numberline {2.}Adatb\IeC {\'a}zisok t\IeC {\"o}rt\IeC {\'e}nelme}{12}
+\defcounter {refsection}{0}
+\contentsline {chapter}{\numberline {3.}Rel\IeC {\'a}ci\IeC {\'o}s adatb\IeC {\'a}zisok}{14}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {3.1.}Kialakul\IeC {\'a}s}{15}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {3.2.}Jellemz\IeC {\H o}k}{15}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {3.2.1.}El\IeC {\H o}ny\IeC {\"o}k}{15}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {3.2.2.}H\IeC {\'a}tr\IeC {\'a}nyok}{16}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {3.3.}ORM\\\relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Object-relational mapping}}{18}
+\defcounter {refsection}{0}
+\contentsline {chapter}{\numberline {4.}NoSQL adatb\IeC {\'a}zisok\\\relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Az \IeC {\'u}j szeml\IeC {\'e}let}}{21}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {4.1.}Bevezet\IeC {\'e}s}{22}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {4.2.}Miben m\IeC {\'a}s?}{23}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {4.3.}Apache CouchDB}{25}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.3.1.}Interf\IeC {\'e}sz}{25}
+\defcounter {refsection}{0}
+\contentsline {subsubsection}{A HTTP interf\IeC {\'e}sz}{27}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.3.2.}Az adatmodell}{28}
+\defcounter {refsection}{0}
+\contentsline {subsubsection}{Dokumentum (Document)}{28}
+\defcounter {refsection}{0}
+\contentsline {subsubsection}{N\IeC {\'e}zet (View)}{29}
+\defcounter {refsection}{0}
+\contentsline {paragraph}{\bf Map}{30}
+\defcounter {refsection}{0}
+\contentsline {paragraph}{\bf Reduce}{31}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.3.3.}Replik\IeC {\'a}ci\IeC {\'o}}{31}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.3.4.}Tranzakci\IeC {\'o}k}{31}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {4.4.}MongoDB}{32}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.4.1.}Interf\IeC {\'e}sz}{32}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.4.2.}Az adatmodell}{34}
+\defcounter {refsection}{0}
+\contentsline {subsubsection}{Dokumentum}{34}
+\defcounter {refsection}{0}
+\contentsline {subsubsection}{Lek\IeC {\'e}rdez\IeC {\'e}sek}{35}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.4.3.}F\IeC {\'a}jlt\IeC {\'a}rol\IeC {\'a}s}{36}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.4.4.}Replik\IeC {\'a}ci\IeC {\'o}}{38}
+\defcounter {refsection}{0}
+\contentsline {subsubsection}{Mester-kliens}{38}
+\defcounter {refsection}{0}
+\contentsline {subsubsection}{Replica set}{39}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {4.4.5.}Tranzakci\IeC {\'o}k}{40}
+\defcounter {refsection}{0}
+\contentsline {chapter}{\numberline {5.}Foursquare}{41}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {5.1.}Bevezet\IeC {\'e}s}{42}
+\defcounter {refsection}{0}
+\contentsline {section}{\numberline {5.2.}MongoDB a foursquare-n\IeC {\'e}l}{43}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {5.2.1.}El\IeC {\H o}ny\IeC {\"o}k}{43}
+\defcounter {refsection}{0}
+\contentsline {paragraph}{Sk\IeC {\'a}l\IeC {\'a}zhat\IeC {\'o}s\IeC {\'a}g}{43}
+\defcounter {refsection}{0}
+\contentsline {paragraph}{Geolokaliz\IeC {\'a}ci\IeC {\'o}}{43}
+\defcounter {refsection}{0}
+\contentsline {paragraph}{R\IeC {\"o}vid v\IeC {\'a}laszid\IeC {\H o}k}{43}
+\defcounter {refsection}{0}
+\contentsline {subsection}{\numberline {5.2.2.}H\IeC {\'a}tr\IeC {\'a}nyok}{43}
+\defcounter {refsection}{0}
+\contentsline {paragraph}{Indexelt mez\IeC {\H o}k m\IeC {\'e}ret\IeC {\'e}nek limit\IeC {\'a}l\IeC {\'a}sa}{43}
+\defcounter {refsection}{0}
+\contentsline {chapter}{\numberline {6.}\IeC {\"O}sszefoglal\IeC {\'a}s}{44}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {english}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {english}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {english}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {english}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {magyar}
+\defcounter {refsection}{0}
+\select@language {magyar}

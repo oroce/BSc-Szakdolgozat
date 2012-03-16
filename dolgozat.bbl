@@ -1,0 +1,375 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 0.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{couchdbdefguiderev}{book}{}
+  \name{author}{3}{%
+    {{Anderson}{A.}%
+     {J.~Chris}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{Lehnardt}{L.}%
+     {Jan}{J.}%
+     {}{}%
+     {}{}}%
+    {{Slater}{S.}%
+     {Noah}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {O'Reilly Media}%
+  }
+  \strng{namehash}{AJCLJSN1}
+  \strng{fullhash}{AJCLJSN1}
+  \field{labelyear}{2010}
+  \field{extrayear}{1}
+  \field{sortinit}{A}
+  \count{uniquename}{0}
+  \field{hyphenation}{magyar}
+  \field{pages}{39}
+  \field{title}{CouchDB: The Definitive Guide}
+  \field{year}{2010}
+\endentry
+
+\entry{couchdbdefguidetrans}{book}{}
+  \name{author}{3}{%
+    {{Anderson}{A.}%
+     {J.~Chris}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{Lehnardt}{L.}%
+     {Jan}{J.}%
+     {}{}%
+     {}{}}%
+    {{Slater}{S.}%
+     {Noah}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {O'Reilly Media}%
+  }
+  \strng{namehash}{AJCLJSN1}
+  \strng{fullhash}{AJCLJSN1}
+  \field{labelyear}{2010}
+  \field{extrayear}{2}
+  \field{sortinit}{A}
+  \count{uniquename}{0}
+  \field{hyphenation}{magyar}
+  \field{pages}{205\bibrangedash 207}
+  \field{title}{CouchDB: The Definitive Guide}
+  \field{year}{2010}
+\endentry
+
+\entry{apachewebserver}{online}{}
+  \field{sortinit}{A}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 22.\\}
+  \field{title}{Apache HTTP Server}
+  \verb{url}
+  \verb https://httpd.apache.org/
+  \endverb
+\endentry
+
+\entry{couchdbcern}{online}{}
+  \field{labelyear}{2010}
+  \field{sortinit}{C}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 22.\\}
+  \field{title}{{CERN} - CouchDB and Physics}
+  \verb{url}
+  \verb http://www.couchbase.com/sites/default/files/pdf/case-studies/Cern CB -
+  \verb  2010 Aug.pdf
+  \endverb
+  \field{month}{08}
+  \field{year}{2010}
+\endentry
+
+\entry{scaling_mongodb_repl_m_s}{book}{}
+  \name{author}{1}{%
+    {{Chodorow}{C.}%
+     {Kristina}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {O'Reilly Media}%
+  }
+  \strng{namehash}{CK1}
+  \strng{fullhash}{CK1}
+  \field{labelyear}{2011}
+  \field{extrayear}{1}
+  \field{sortinit}{C}
+  \count{uniquename}{0}
+  \field{hyphenation}{english}
+  \field{pages}{127}
+  \field{title}{Scaling MongoDB}
+  \field{year}{2011}
+\endentry
+
+\entry{scaling_mongodb_repl_m_sss}{book}{}
+  \name{author}{1}{%
+    {{Chodorow}{C.}%
+     {Kristina}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {O'Reilly Media}%
+  }
+  \strng{namehash}{CK1}
+  \strng{fullhash}{CK1}
+  \field{labelyear}{2011}
+  \field{extrayear}{2}
+  \field{sortinit}{C}
+  \count{uniquename}{0}
+  \field{hyphenation}{english}
+  \field{pages}{128}
+  \field{title}{Scaling MongoDB}
+  \field{year}{2011}
+\endentry
+
+\entry{scaling_mongodb_repl_set}{book}{}
+  \name{author}{1}{%
+    {{Chodorow}{C.}%
+     {Kristina}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {O'Reilly Media}%
+  }
+  \strng{namehash}{CK1}
+  \strng{fullhash}{CK1}
+  \field{labelyear}{2011}
+  \field{extrayear}{3}
+  \field{sortinit}{C}
+  \count{uniquename}{0}
+  \field{hyphenation}{english}
+  \field{pages}{135}
+  \field{title}{Scaling MongoDB}
+  \field{year}{2011}
+\endentry
+
+\entry{scaling_mongodb_repl_set_failover}{book}{}
+  \name{author}{1}{%
+    {{Chodorow}{C.}%
+     {Kristina}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {O'Reilly Media}%
+  }
+  \strng{namehash}{CK1}
+  \strng{fullhash}{CK1}
+  \field{labelyear}{2011}
+  \field{extrayear}{4}
+  \field{sortinit}{C}
+  \count{uniquename}{0}
+  \field{hyphenation}{english}
+  \field{pages}{136}
+  \field{title}{Scaling MongoDB}
+  \field{year}{2011}
+\endentry
+
+\entry{mongodb_vs_couchdb}{online}{}
+  \field{labelyear}{2011}
+  \field{sortinit}{C}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 10.\\}
+  \field{title}{Comparing MongoDB and CouchDB}
+  \verb{url}
+  \verb http://www.mongodb.org/display/DOCS/Comparing+Mongo+DB+and+Couch+DB
+  \endverb
+  \field{month}{01}
+  \field{year}{2011}
+\endentry
+
+\entry{couchdb_repl}{online}{}
+  \field{labelyear}{2010}
+  \field{sortinit}{C}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 14.\\}
+  \field{title}{CouchDB Replication}
+  \verb{url}
+  \verb http://wiki.apache.org/couchdb/Replication
+  \endverb
+  \field{month}{10}
+  \field{year}{2010}
+\endentry
+
+\entry{jsonspec}{online}{}
+  \field{labelyear}{2009}
+  \field{sortinit}{E}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 01.\\}
+  \field{title}{ECMAScript Language Specification}
+  \verb{url}
+  \verb http://www.ecma-international.org/publications/files/ecma-st/ECMA-262.p
+  \verb df
+  \endverb
+  \field{month}{12}
+  \field{year}{2009}
+\endentry
+
+\entry{fb_stat}{online}{}
+  \field{labelyear}{2011}
+  \field{sortinit}{F}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 24.\\}
+  \field{title}{Facebook statiszika}
+  \verb{url}
+  \verb http://www.facebook.com/press/info.php?statistics
+  \endverb
+  \field{month}{04}
+  \field{year}{2011}
+\endentry
+
+\entry{harryheymannprez}{online}{}
+  \field{labelyear}{2010}
+  \field{extrayear}{1}
+  \field{sortinit}{F}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 15.\\}
+  \field{title}{Foursquare \& MongoDB}
+  \verb{url}
+  \verb http://docs.google.com/present/view?id=dhkkqm6q_13gm6jq5fv
+  \endverb
+  \field{month}{05}
+  \field{year}{2010}
+\endentry
+
+\entry{harryheymannvid}{online}{}
+  \field{labelyear}{2010}
+  \field{extrayear}{2}
+  \field{sortinit}{F}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. március 22.\\}
+  \field{title}{Foursquare \& MongoDB}
+  \verb{url}
+  \verb http://blip.tv/file/3704098
+  \endverb
+  \field{month}{05}
+  \field{year}{2010}
+\endentry
+
+\entry{foursquarecom}{online}{}
+  \field{labelyear}{2011}
+  \field{extrayear}{1}
+  \field{sortinit}{F}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 20.\\}
+  \field{title}{foursquare.com}
+  \verb{url}
+  \verb http://www.foursquare.com
+  \endverb
+  \field{month}{04}
+  \field{year}{2011}
+\endentry
+
+\entry{foursquarecom_numbers}{online}{}
+  \field{labelyear}{2011}
+  \field{extrayear}{2}
+  \field{sortinit}{F}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 23.\\}
+  \field{title}{foursquare.com}
+  \verb{url}
+  \verb https://foursquare.com/about
+  \endverb
+  \field{month}{04}
+  \field{year}{2011}
+\endentry
+
+\entry{gajdos}{book}{}
+  \name{author}{1}{%
+    {{Gajdos}{G.}%
+     {Sándor}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Műegyetemi Kiadó}%
+  }
+  \strng{namehash}{GS1}
+  \strng{fullhash}{GS1}
+  \field{labelyear}{2006}
+  \field{sortinit}{G}
+  \count{uniquename}{0}
+  \field{hyphenation}{magyar}
+  \field{pages}{4}
+  \field{title}{Adatbázisok}
+  \field{year}{2006}
+\endentry
+
+\entry{couchdbwiki}{online}{}
+  \field{labelyear}{2011}
+  \field{sortinit}{I}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. április 18.\\}
+  \field{title}{Introduction to CouchDB Views}
+  \verb{url}
+  \verb http://wiki.apache.org/couchdb/Introduction_to_CouchDB_views
+  \endverb
+  \field{month}{01}
+  \field{year}{2011}
+\endentry
+
+\entry{harryheymannqa}{online}{}
+  \field{labelyear}{2010}
+  \field{sortinit}{Q}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. március 25.\\}
+  \field{title}{Q and A from Scaling foursquare with MongoDB}
+  \verb{url}
+  \verb http://www.10gen.com/video/misc/foursquareqa
+  \endverb
+  \field{month}{12}
+  \field{year}{2010}
+\endentry
+
+\entry{twitter_forbes}{online}{}
+  \field{labelyear}{2011}
+  \field{sortinit}{T}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. március 10.\\}
+  \field{title}{{T}witter {H}its {N}early {200M} {A}ccounts, 110M Tweets Per
+  Day, Focuses On Global Expansion}
+  \verb{url}
+  \verb http://blogs.forbes.com/oliverchiang/2011/01/19/twitter-hits-nearly-200
+  \verb m-users-110m-tweets-per-day-focuses-on-global-expansion/
+  \endverb
+  \field{month}{01}
+  \field{year}{2011}
+\endentry
+
+\entry{rdbms_stat}{online}{}
+  \field{sortinit}{W}
+  \count{uniquename}{0}
+  \field{note}{Letöltve: 2011. március 28.\\}
+  \field{title}{Who Leads the RDBMS Pack?}
+  \verb{url}
+  \verb http://databases.about.com/library/weekly/aa060401a.htm
+  \endverb
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

@@ -1,0 +1,29 @@
+% $Id: magyar.lbx,v 0.01 $
+
+\ProvidesFile{magyar.lbx}
+\InheritBibliographyExtras{english}
+\InheritBibliographyStrings{english}
+[\abx@lbxid $Id: magyar.lbx,v 0.01 2011/01/12 19:18 dg testing $]
+
+% STATUS OF THIS FILE
+% * testing
+
+\DeclareRedundantLanguages{magyar}{magyar,
+hungarian}
+
+\DeclareBibliographyExtras{%
+ \protected\def\nameprint#1#2{#1\space#2}
+}
+
+\DeclareBibliographyStrings{%
+  bibliography     = {{Felhasznált\addspace{}irodalom}{Felhasznált\addspace{}irodalom}},
+  editor           = {{szerk\addot}{szerk\adddot}},
+  and              = {{és}{és}},
+  in               = {{in}{in}},
+  page             = {{page}{p\adddot}},
+  pages            = {{pages}{pp\adddot}},
+  andothers        = {{et\addabbrvspace al\adddot}{et\addabbrvspace al\adddot}},
+  andmore          = {{et\addabbrvspace al\adddot}{et\addabbrvspace al\adddot}},
+}
+
+\endinput

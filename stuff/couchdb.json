@@ -1,0 +1,19 @@
+{
+    "_id": "a040e00418996ae96e91ef998f000eea",
+    "_rev": "1-3fab44526d5d7d3a52ab1761b323ab62",
+    "c|í|m": "Dokumentum-orient|á|lt adatb|á|zisok",
+    "c|í|mk|é|k": ["nosql", "couchdb", "sk|á|l|á|zhat|ó|s|á|g", "mapreduce"],
+    "l|é|trehozva": "Wed Apr 20 2011 11:45:15 GMT+0200 (CEST)",
+    "tartalom": "CouchDB az Apache Foundation term|é|ke...",
+    "kommentek": [{
+        "felhaszn|á|l|ó|": {
+            "n|é|v": "felhaszn|á|l|ó|1",
+            "ip": "12.12.12.12"
+        },
+        "|ü|zenet": "CouchDB - a dokumentum-orient|á|lt adatb|á|zis."
+    }],
+    "_revs_info": [{
+        "rev": "1-3fab44526d5d7d3a52ab1761b323ab62",
+        "status": "available"
+	}]
+}

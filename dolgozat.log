@@ -1,0 +1,1113 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.29)  3 MAY 2011 09:10
+entering extended mode
+ %&-line parsing enabled.
+**\nonstopmode \input{"/home/oroce/BCE/szakdolgozat/dolgozat.tex"}
+(/home/oroce/BCE/szakdolgozat/dolgozat.tex
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/var/lib/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texmf-texlive/tex/generic/babel/magyar.ldf
+Language: magyar 2005/03/30 v1.4j Magyar support from the babel system
+Package babel Info: Making ` an active character on input line 597.
+))
+(/usr/share/texmf/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2010/02/14 v0.9 programmable bibliographies
+
+(/usr/share/texmf-texlive/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2009/08/06 v1.8 e-TeX tools for LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count89
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@listtotal=\count90
+\c@listcount=\count91
+\c@liststart=\count92
+\c@liststop=\count93
+\c@citecount=\count94
+\c@citetotal=\count95
+\c@multicitecount=\count96
+\c@multicitetotal=\count97
+\c@instcount=\count98
+\c@maxnames=\count99
+\c@minnames=\count100
+\c@maxitems=\count101
+\c@minitems=\count102
+\c@uniquename=\count103
+\c@refsection=\count104
+\c@refsegment=\count105
+\c@maxextrayear=\count106
+\c@maxextraalpha=\count107
+\c@abbrvpenalty=\count108
+\c@highnamepenalty=\count109
+\c@lownamepenalty=\count110
+\blx@tempcnta=\count111
+\blx@tempcntb=\count112
+\blx@maxsection=\count113
+\blx@maxsegment=\count114
+\blx@notetype=\count115
+\labelnumberwidth=\skip43
+\labelalphawidth=\skip44
+\shorthandwidth=\skip45
+\biblabelsep=\skip46
+\bibitemsep=\skip47
+\bibnamesep=\skip48
+\bibinitsep=\skip49
+\bibparsep=\skip50
+\bibhang=\skip51
+\blx@auxin=\read1
+\blx@auxout=\write3
+\c@labelname=\count116
+\c@author=\count117
+\c@shortauthor=\count118
+\c@editor=\count119
+\c@editora=\count120
+\c@editorb=\count121
+\c@editorc=\count122
+\c@shorteditor=\count123
+\c@bookauthor=\count124
+\c@translator=\count125
+\c@annotator=\count126
+\c@commentator=\count127
+\c@introduction=\count128
+\c@foreword=\count129
+\c@afterword=\count130
+\c@holder=\count131
+\c@namea=\count132
+\c@nameb=\count133
+\c@namec=\count134
+\c@institution=\count135
+\c@language=\count136
+\c@location=\count137
+\c@organization=\count138
+\c@origlocation=\count139
+\c@origpublisher=\count140
+\c@pageref=\count141
+\c@publisher=\count142
+\c@lista=\count143
+\c@listb=\count144
+\c@listc=\count145
+\c@listd=\count146
+\c@liste=\count147
+\c@listf=\count148
+
+(/usr/share/texmf/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2010/02/14 v0.9 biblatex generic definitions
+\c@smartand=\count149
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'bibnatex.def' found.
+
+(/usr/share/texmf/tex/latex/biblatex/bibnatex.def
+File: bibnatex.def 2010/02/14 v0.9 biblatex natbib compatibility
+)
+Package biblatex Info: Trying to load bibliography style 'magyar'...
+Package biblatex Info: ... file 'magyar.bbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/bbx/magyar.bbx
+File: magyar.bbx 
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2010/02/14 v0.9 biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2010/02/14 v0.9 biblatex bibliography style
+)))
+Package biblatex Info: Trying to load citation style 'magyar'...
+Package biblatex Info: ... file 'magyar.cbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/cbx/magyar.cbx
+File: magyar.cbx 
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2010/02/14 v0.9 biblatex citation style
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\textcite'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texmf/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/share/texmf/tex/latex/listingsutf8.sty
+Package: listingsutf8 2007/11/11 v1.1 Adding support for UTF-8 to listings (HO)
+
+
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count150
+\lst@gtempboxa=\box26
+\lst@token=\toks17
+\lst@length=\count151
+\lst@currlwidth=\dimen104
+\lst@column=\count152
+\lst@pos=\count153
+\lst@lostspace=\dimen105
+\lst@width=\dimen106
+\lst@newlines=\count154
+\lst@lineno=\count155
+\lst@maxwidth=\dimen107
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count156
+\lst@skipnumbers=\count157
+\lst@framebox=\box27
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2008/10/27 v1.6 Converts strings between encodings (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdfescape.sty
+Package: pdfescape 2007/11/11 v1.8 Provides hex, PDF name and string conversion
+s (HO)
+)))
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count158
+))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/anysize/anysize.sty
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen110
+\@Rightmargin=\dimen111
+\@Topmargin=\dimen112
+\@Bottommargin=\dimen113
+) (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip52
+\f@ncyO@elh=\skip53
+\f@ncyO@erh=\skip54
+\f@ncyO@olh=\skip55
+\f@ncyO@orh=\skip56
+\f@ncyO@elf=\skip57
+\f@ncyO@erf=\skip58
+\f@ncyO@olf=\skip59
+\f@ncyO@orf=\skip60
+)
+(/usr/share/texmf-texlive/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen114
+\nom@tempdim=\dimen115
+\nomitemsep=\skip61
+)
+\@nomenclaturefile=\write4
+\openout4 = `dolgozat.nlo'.
+
+
+Writing nomenclature file dolgozat.nlo
+Package biblatex Info: Trying to load language 'magyar' -> 'magyar'...
+Package biblatex Info: ... file 'magyar.lbx' found.
+(/usr/share/texmf/tex/latex/biblatex/lbx/magyar.lbx
+File: magyar.lbx 
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2010/02/14 v0.9 biblatex localization
+)
+! Undefined control sequence.
+l.11 \DeclareRedundantLanguages
+                               {magyar}{magyar,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+
+Package biblatex Warning: 'babel' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' is strongly recommended.
+
+\@quotelevel=\count159
+(/home/oroce/BCE/szakdolgozat/dolgozat.aux
+(/home/oroce/BCE/szakdolgozat/coverpage.aux)
+(/home/oroce/BCE/szakdolgozat/introduction.aux)
+(/home/oroce/BCE/szakdolgozat/history.aux)
+(/home/oroce/BCE/szakdolgozat/reldb.aux)
+(/home/oroce/BCE/szakdolgozat/nosql.aux)
+(/home/oroce/BCE/szakdolgozat/foursquare.aux)
+(/home/oroce/BCE/szakdolgozat/summary.aux))
+\openout1 = `dolgozat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 85.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\openout3 = `dolgozat-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'dolgozat.bbl' found.
+
+(/home/oroce/BCE/szakdolgozat/dolgozat.bbl)
+Package biblatex Info: Reference section=0 on input line 85.
+Package biblatex Info: Reference segment=0 on input line 85.
+\c@lstlisting=\count160
+
+(/usr/share/texmf/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count161
+\scratchdimen=\dimen116
+\scratchbox=\box28
+\nofMPsegments=\count162
+\nofMParguments=\count163
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count164
+\MPscratchDim=\dimen117
+\MPnumerator=\count165
+\everyMPtoPDFconversion=\toks19
+)
+\openout2 = `coverpage.aux'.
+
+ (/home/oroce/BCE/szakdolgozat/coverpage.tex [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (/home/oroce/BCE/szakdolg
+ozat/dolgozat.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 13.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 13.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 13.
+
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 13.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 13.
+ [2
+
+
+
+])
+\tf@toc=\write5
+\openout5 = `dolgozat.toc'.
+
+
+(/home/oroce/BCE/szakdolgozat/dolgozat.nls
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.35403pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3] [4
+
+] [5] [6]
+Underfull \hbox (badness 5064) in paragraph at lines 47--49
+\T1/lmr/m/n/12 Az Oracle Cor-pora-tion egyik leg-is-mer-tebb ter-méke, re-lá-ci
+ós
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 55--57
+\T1/lmr/m/n/12 re-haj-tott AJAX (Asynch-ro-nous Ja-vaScript and XML) ké-ré-sek-
+
+ []
+
+[7] [8]) [9]
+1. fejezet.
+[10
+
+]
+\openout2 = `introduction.aux'.
+
+ (/home/oroce/BCE/szakdolgozat/introduction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--9
+
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 1--9
+\T1/lmr/m/n/12 ver be-kap-cso-lása a szol-gál-ta-tásba le-rö-vi-dül-het, ez-ál-
+tal csök-kentve az em-beri
+ []
+
+) [11
+
+]
+2. fejezet.
+[12
+
+
+]
+\openout2 = `history.aux'.
+
+ (/home/oroce/BCE/szakdolgozat/history.tex) [13
+
+]
+3. fejezet.
+[14
+
+
+]
+\openout2 = `reldb.aux'.
+
+ (/home/oroce/BCE/szakdolgozat/reldb.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 2.
+ [15
+
+]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 33.
+
+(/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 33.
+ [16]
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
+
+ []
+
+[17] <pictures/wordpress_db_struct.png, id=65, 847.165pt x 1074.0125pt>
+File: pictures/wordpress_db_struct.png Graphic file (type png)
+
+<use pictures/wordpress_db_struct.png>
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+
+ []
+
+
+LaTeX Warning: Float too large for page by 20.62123pt on input line 75.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (15.35403pt): 
+ Make it at least 27.11652pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18] [19 </home/oroce/BCE/szakdolgozat/pictures/wordpress_db_struct.png (PNG co
+py)>]
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--91
+
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 85--91
+\T1/lmr/bx/n/12 Pesszimista zá-ro-lás \T1/lmr/m/n/12 A pesszi-mista zá-ro-lás e
+se-tén, ha egy kli-ens szer-kesz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--91
+
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 85--91
+\T1/lmr/m/n/12 sen függ a tá-rolt ada-tok-tól. Pél-dául egy pénz-ügyi rend-szer
+ va-ló-szí-n¶-leg a
+ []
+
+) [20
+
+]
+4. fejezet.
+[21
+
+
+]
+\openout2 = `nosql.aux'.
+
+ (/home/oroce/BCE/szakdolgozat/nosql.tex
+
+Package Fancyhdr Warning: \headheight is too small (27.11652pt): 
+ Make it at least 29.85403pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 26--34
+
+ []
+
+[23] [24] <pictures/conn_int_standard.png, id=89, 183.68625pt x 201.75375pt>
+File: pictures/conn_int_standard.png Graphic file (type png)
+
+<use pictures/conn_int_standard.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pictures/conn_int_couchdb_expr.png, id=90, 182.6825pt x 199.74625pt>
+File: pictures/conn_int_couchdb_expr.png Graphic file (type png)
+
+<use pictures/conn_int_couchdb_expr.png>
+Underfull \hbox (badness 10000) in paragraph at lines 63--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--73
+
+ []
+
+[25] [26 </home/oroce/BCE/szakdolgozat/pictures/conn_int_standard.png (PNG copy
+)> </home/oroce/BCE/szakdolgozat/pictures/conn_int_couchdb_expr.png (PNG copy)>
+] <pictures/conn_int_couchdb_simple.png, id=98, 183.68625pt x 118.4425pt>
+File: pictures/conn_int_couchdb_simple.png Graphic file (type png)
+
+<use pictures/conn_int_couchdb_simple.png>
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+
+ []
+
+[27
+
+ </home/oroce/BCE/szakdolgozat/pictures/conn_int_couchdb_simple.png (PNG copy)>
+]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 113.
+
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/couchdb.json)
+Underfull \hbox (badness 10000) in paragraph at lines 105--119
+
+ []
+
+[28] (/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/couchdb_map.js
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1.
+
+Overfull \hbox (4.76283pt too wide) in paragraph at lines 2--3
+[][][][][][][][][][][][][][][][][][][]\T1/lmtt/m/n/10 í[][][][][][][][][][][][]
+[][][][][]á[][][][][][][]á[][][][][][][][] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 121--132
+
+ []
+
+[29] (/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/couchdb_mapreduce.js)
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--158
+
+ []
+
+[31] (/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/mongodb_create.js)
+Underfull \hbox (badness 1142) in paragraph at lines 165--181
+[]\T1/lmr/m/n/12 A Mon-goDB kap-cso-ló-dási in-ter-fé-sze meg-egye-zik a re-lá-
+ciós adat-bá-zi-sok-nál
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 165--181
+\T1/lmr/m/n/12 ver-kom-po-nens mellé te-le-pül® kon-zo-los kli-ens se-gít-sé-gé
+-vel le-het hoz-zá-férni. A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--181
+
+ []
+
+[32] (/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/mongodb_create_coll.js)
+Underfull \hbox (badness 10000) in paragraph at lines 182--190
+
+ []
+
+[33] (/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/mongo.json)
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/mongodb_create_doc.js) [34] [35]
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/mongodb_find.js)
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/mongodb_masterfile.json) [36]
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(/home/oroce/BCE/szakdolgozat/stuff/mongodb_file.json) [37]
+<pictures/mongo_repl_m_s.png, id=137, 230.8625pt x 373.395pt>
+File: pictures/mongo_repl_m_s.png Graphic file (type png)
+
+<use pictures/mongo_repl_m_s.png>
+<pictures/mongo_repl_m_sss.png, id=139, 561.09625pt x 364.36125pt>
+File: pictures/mongo_repl_m_sss.png Graphic file (type png)
+
+<use pictures/mongo_repl_m_sss.png> [38 </home/oroce/BCE/szakdolgozat/pictures/
+mongo_repl_m_s.png>]
+<pictures/mongodb_repl_set.png, id=144, 602.25pt x 327.2225pt>
+File: pictures/mongodb_repl_set.png Graphic file (type png)
+
+<use pictures/mongodb_repl_set.png> [39 </home/oroce/BCE/szakdolgozat/pictures/
+mongo_repl_m_sss.png> </home/oroce/BCE/szakdolgozat/pictures/mongodb_repl_set.p
+ng>] <pictures/mongodb_repl_set_failover.png, id=150, 602.25pt x 327.2225pt>
+File: pictures/mongodb_repl_set_failover.png Graphic file (type png)
+
+<use pictures/mongodb_repl_set_failover.png>) [40 </home/oroce/BCE/szakdolgozat
+/pictures/mongodb_repl_set_failover.png>]
+5. fejezet.
+[41
+
+
+]
+\openout2 = `foursquare.aux'.
+
+ (/home/oroce/BCE/szakdolgozat/foursquare.tex [42
+
+]) [43]
+6. fejezet.
+[44
+
+
+]
+\openout2 = `summary.aux'.
+
+ (/home/oroce/BCE/szakdolgozat/summary.tex) [45
+
+]
+
+! Package biblatex Error: Bibliography macro 'names:andothers' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 
+      
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'names:andothers' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 
+      
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'names:andothers' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 
+      
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'names:andothers' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 
+      
+Use '\newbibmacro' to define this macro.
+
+[46
+
+
+]
+
+! Package biblatex Error: Bibliography macro 'names:andothers' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 
+      
+Use '\newbibmacro' to define this macro.
+
+[47] (/home/oroce/BCE/szakdolgozat/dolgozat.aux
+(/home/oroce/BCE/szakdolgozat/coverpage.aux)
+(/home/oroce/BCE/szakdolgozat/introduction.aux)
+(/home/oroce/BCE/szakdolgozat/history.aux)
+(/home/oroce/BCE/szakdolgozat/reldb.aux)
+(/home/oroce/BCE/szakdolgozat/nosql.aux)
+(/home/oroce/BCE/szakdolgozat/foursquare.aux)
+(/home/oroce/BCE/szakdolgozat/summary.aux)) ) 
+Here is how much of TeX's memory you used:
+ 7780 strings out of 493848
+ 118305 string characters out of 1152823
+ 268675 words of memory out of 3000000
+ 10792 multiletter control sequences out of 15000+50000
+ 79559 words of font info for 55 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 38i,11n,44p,1766b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/
+lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/f
+onts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
+0.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb></usr/share/texmf/font
+s/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb
+>
+Output written on dolgozat.pdf (47 pages, 1102819 bytes).
+PDF statistics:
+ 232 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

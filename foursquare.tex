@@ -1,0 +1,31 @@
+\section{Bevezetés}
+
+A foursquare egy helymegosztás alapú közösségi oldal, 2009 óta működik. A foursquare segítségével a városok gyorsabban felfedezhetőek, felhasználók által közkedvelt helyek hamarabb megtalálhatóak. Az oldal működésének elve, hogy ha a felhasználó elmegy egy étterembe, akkor be tud jelentkezni, hogy az adott helyen van, ilyenkor kaphat az étteremben kedvezményt illetve a barátai láthatják, hogy jelenleg hol tartózkodik. Mint a leírásból is kiderül az oldal alapvetően mobileszközökön használható jól, mert az aktuális földrajzi helyzethez képest ajánlja fel a rendszer helyeket. A helyzetmeghatározás történhet GPS pozíció, GSM tornyok beháromszögelése és a W3C\nomenclature{W3C (World Wide Consortium)}{\hfill\\Egy konzorcium, amelynek a webes technológiák fejlesztésének irányítása, és technológiai iránymutatás (ajánlások) a célja.} HTML5\nomenclature{HTML5}{\hfill\\A HTML új verziója, melybe már olyan megoldások kerültek bele, mint a geolokalizáció, az animációk támogatása, böngészőben futó adatbázisok, 3D modellezés.} draftjában található geolokalizáció alapján is. (\defcitealias{foursquarecom}{foursquare.com, 2011}\citetalias{foursquarecom})
+
+A foursquare-t azért választottam bemutatandó példának, mert dokumentum-orientált adatbázist használ, és az egyik legrégebbi MongoDB-t használó, komoly felhasználóbázissal rendelkező szolgáltatás.
+A közösségi oldal 2011. áprilisában mintegy 8 millió felhasználóval rendelkezett és ez a szám naponta körülbelül 35 ezerrel növekszik. A felhasználók naponta körülbelül 2,5 milliószor jelentkeznek be (az előző évben megközelítőleg fél milliárd bejelentkezés történt), ennek ellenére a szolgáltatás mögött álló foursquare Labs, Inc. mindössze 60 alkalmazottal rendelkezik. (\defcitealias{foursquarecom_numbers}{foursquare.com, 2011b}\citetalias{foursquarecom_numbers})
+\\
+Az alkalmazás az Amazon EC2-ben\footnote{az induló alkalmazások (startup) egyik legkedveltebb felhőszolgáltatója} elhelyezett 25 darab szerveren fut, scalaban\footnote{Java és ML alapú programozási nyelv, Java virtuális gépen (JVM) fut} írva.
+A rendszer indulásakor PostgreSQL adatbázist használt, azonban a felhasználók és bejelentkezések számának növekedésével a fejlesztők kénytelenek voltak az adatbázis réteg cseréje mellett dönteni, mivel a relációs rendszer skálázása (mind a szétosztás, mind a replikáció) komoly problémát jelentett. A választás a MongoDB-re esett, amelyhez a szerverek átalakítására volt szükség, ugyanis a NoSQL adatbázisok, a lemezre írás és lemezről olvasás helyett, a memóriát használják, ezzel csökkentve a lekérdezések idejét. Azonban a PostgreSQL a mai napig használatban van (az adatok rögzítése nem csak a MongoDB-be kerül írásra, hanem a relációs adatbázisba is), tehát egyfajta biztonsági mentésként üzemel.
+
+% és ellentétben a legtöbb NoSQL adatbázist használó rendszerrel, a foursquare nem relációs adatbázisról váltott, hanem már a rendszertervezésnél figyelembe vehették a dokumentum-orientált adatbázis nyújtotta előnyöket.
+
+\section{MongoDB a foursquare-nél}
+
+Ahogyan az előző pontban olvasható, a szervereket át kellett alakítani a MongoDB-hez, ez annyit jelent, hogy bővítették a memóriát 66 gigabájtig, amellyel elérték, hogy a legtöbb információ eléréséhez nem kell, a merevlemezről olvasni, ugyanis elfér a memóriában.
+
+
+\subsection{Előnyök}
+
+	\paragraph{Skálázhatóság}
+		A foursquare - mint jelenleg feltörekvő szolgáltatás - esetében a folyamatos felhasználónövekedés miatt, folyamatosan szükséges a szerverkapacitás bővítése. A hardveres bővítést az Amazon oldja meg, míg az új adatbázis-kezelő bekapcsolása a szolgáltatásba a foursquare dolga, amely szerencsére nem bonyolult MongoDB segítségével, mindössze be kell állítani az elosztást végző szerveren az új eszköz paramétereit, és onnantól kezdve az adatok szétosztása és lekérdezése automatikusan működik.
+
+	\paragraph{Geolokalizáció}
+		Mivel a szolgáltatás alapja a lokalizált találat, és a MongoDB-ben megtalálható földrajzi koordináták indexelése, ezért a legközelebbi helyek megtalálásának és listázásának rövid válaszidejét nagyban elősegíti az adatbázisnak ez a funkciója. (\defcitealias{harryheymannprez}{Foursquare \& MongoDB, 2010a}\citetalias{harryheymannprez})
+ 
+ 	\paragraph{Rövid válaszidők}
+ 	A rövid válaszidőknek köszönhetően az alkalmazás több kérést tud indítani az adatbázis felé, amely a foursquare esetében 5000(!) kérés másodpercenként, mindezt 25 szerver segítségével oldják meg. (\defcitealias{harryheymannqa}{Q and A from Scaling foursquare with MongoDB, 2010}\citetalias{harryheymannqa})
+\subsection{Hátrányok} 
+
+	\paragraph{Indexelt mezők méretének limitálása}
+		Az indexelt mezők korlátja egy kilobájt, a foursquare-nél ez komoly problémákat okoz, ugyanis az egy-egy helyhez több tíz vagy akár száz kulcsszó is tartozhat. Az indexelés limitálásával a kulcsszavak egy része lesz csak felindexelve, míg a többi kulcsszóra a keresés lehetetlenné válik. A foursquare a problémát a sok kulcsszóval rendelkező helyeknél, az indexelés kihagyásával kerülte meg. (\defcitealias{harryheymannvid}{Foursquare \& MongoDB, 2010b}\citetalias{harryheymannvid})

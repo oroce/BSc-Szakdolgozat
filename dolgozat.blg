@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: dolgozat.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: coverpage.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: history.aux
+A level-1 auxiliary file: reldb.aux
+A level-1 auxiliary file: nosql.aux
+A level-1 auxiliary file: foursquare.aux
+A level-1 auxiliary file: summary.aux
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: dolgozat-blx.bib
+Database file #2: bibliography.bib
+Biblatex version: 0.9
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 22 entries,
+            6090 wiz_defined-function locations,
+            1217 strings with 10267 characters,
+and the built_in function-call counts, 53867 in all, are:
+= -- 1823
+> -- 1180
+< -- 442
++ -- 401
+- -- 361
+* -- 3132
+:= -- 2577
+add.period$ -- 0
+call.type$ -- 22
+change.case$ -- 269
+chr.to.int$ -- 106
+cite$ -- 42
+duplicate$ -- 6342
+empty$ -- 7392
+format.name$ -- 520
+if$ -- 13307
+int.to.chr$ -- 0
+int.to.str$ -- 70
+missing$ -- 0
+newline$ -- 374
+num.names$ -- 537
+pop$ -- 6720
+preamble$ -- 1
+purify$ -- 270
+quote$ -- 0
+skip$ -- 2766
+stack$ -- 0
+substring$ -- 987
+swap$ -- 2202
+text.length$ -- 423
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 942
+warning$ -- 0
+while$ -- 307
+width$ -- 0
+write$ -- 351

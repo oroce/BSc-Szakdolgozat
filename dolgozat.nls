@@ -1,0 +1,72 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{Apache Software Foundation}]\begingroup \hfill\\Az alapítvány open-source termékek fejlesztésével, a termékekhez kapcsolódó támogatás nyújtásával foglalkozik.\\Az alapítványhoz olyan termékek tartoznak, mint az Apache webszerver, a CouchDB vagy a Cassandra.\nomeqref {4.0}
+		\nompageref{23}
+  \item [{Apache webszerver}]\begingroup \hfill\\Az egyik legismertebb open-source, keresztplatformos webszerver. \\A projekt célja egy olyan webszerver kifejlesztése és karbantartása, amely biztonságos, hatékony és jól használható vállalati környezetben is. (\cite{apachewebserver})\nomeqref {4.0}
+		\nompageref{25}
+  \item [{BSON (Binary JSON)}]\begingroup \hfill\\A BSON felépítése megegyezik a JSON felépítésével, azonban itt nem csak a JSON specifikációban megadott adattípusok fordulhatnak elő, hanem egy BinData objektum, amelyben bináris fájlokat lehet tárolni.\nomeqref {4.0}
+		\nompageref{34}
+  \item [{Cache}]\begingroup \hfill\\A cache használatával, a több ugyanolyan kérésnél nem szükséges minden alkalommal elvégezni a számítási műveleteket, mert a gyorsítótárból azonnal kiszolgálható az előző (a jelenlegivel megegyező) kérésre adott válasz eltárolt változatával.\nomeqref {4.0}
+		\nompageref{28}
+  \item [{CMS (Content Management System)}]\begingroup \hfill \\Tartalomkezelő rendszer, melynek segítségével programozói tudás nélkül lehetséges a weboldalak készítése\nomeqref {3.0}
+		\nompageref{19}
+  \item [{CRUD (Create, Read, Update, Delete)}]\begingroup \hfill\\Az adattárolás négy alapvető műveletének (írás, olvasás, frissítés, törlés) összefoglaló neve.\nomeqref {4.0}
+		\nompageref{27}
+  \item [{ETag fejléc (header)}]\begingroup \hfill\\A weboldalaknál, kliensoldalon történő gyorsítótárazás egyik formája.\\A webszerverről érkező válaszok verziózására használják, ugyanis amíg kérésre adott válasz nem változik, az ETag fejléc értéke sem fog, így a böngésző le sem tölti. Új verzió esetén az ETag fejléc változik, ezáltal jelezve a böngészőnek az új tartalmat.\nomeqref {4.0}
+		\nompageref{28}
+  \item [{Facebook}]\begingroup \hfill\\Az egyik legismertebb közösségi oldal. 2011 áprilisában több mint 500 millió felhasználóval rendelkezett. (\defcitealias{fb_stat}{Facebook statisztika, 2011}\citetalias{fb_stat})\nomeqref {4.0}
+		\nompageref{23}
+  \item [{FAT fájlrendszer}]\begingroup \hfill\\Eredetileg az MS-DOS fájlrendszere, később a Microsoft Windows is ezt használta. Az adattárolás során a nagy szektor méretek miatt, a fájlrendszer pazarlóan bánt merevlemezen tárolókapacitásával.\nomeqref {3.0}
+		\nompageref{17}
+  \item [{Geolokalizáció}]\begingroup \hfill\\Az internetre csatlakoztatott eszköz fizikai tartózkodási helyének meghatározása. Ez történhet a böngésző, vagy GPS segítségével.\nomeqref {4.0}
+		\nompageref{25}
+  \item [{Hash függvény}]\begingroup \hfill\\Olyan matematikai algoritmus, amely a bemeneti (tetszőleges hosszúságú) adatot véges hosszúságúra képezi le. Digitális aláírásoknál és ellenőrző szövegeknél is alkalmazzák.\nomeqref {4.0}
+		\nompageref{28}
+  \item [{HTML (HyperText Markup Language)}]\begingroup \hfill\\A HTML egy leírónyelv, mely minden weboldal alapja. A böngészők a HTML oldal struktúrája alapján jelenítik meg a honlapokat.\nomeqref {4.0}
+		\nompageref{27}
+  \item [{HTML5}]\begingroup \hfill\\A HTML új verziója, melybe már olyan megoldások kerültek bele, mint a geolokalizáció, az animációk támogatása, böngészőben futó adatbázisok, 3D modellezés.\nomeqref {5.0}
+		\nompageref{42}
+  \item [{HTTP kliens}]\begingroup \hfill\\A legtöbb programozási nyelvben megtalálható osztály, melynek segítségével HTTP kérések indíthatók.\nomeqref {4.0}
+		\nompageref{26}
+  \item [{JavaScript}]\begingroup \hfill\\A JavaScript egy objektumorientált és funkcionális programozási nyelv, mellyel leginkább a böngészőben találkozni. A nyelv egyszerűségével és könnyen tanulhatóságával, ma már sok keresztfordítóban (cross-compiler) megtalálható.\nomeqref {4.0}
+		\nompageref{25}
+  \item [{Load-balancer}]\begingroup \hfill\\Magyarul terhelés elosztó. Nagy terhelés esetén a kiszolgálás nem egy rendszerről történik, hanem többről, ilyenkor a terhelés elosztó dönti el (egy adott algoritmus alapján), hogy melyik rendszer szolgálja ki a bejövő kérést.\nomeqref {4.0}
+		\nompageref{28}
+  \item [{MD5 hash}]\begingroup \hfill\\Az MD5 hash 128 bites egyirányú kódolási algoritmus.\nomeqref {4.0}
+		\nompageref{36}
+  \item [{Microsoft SQL Server}]\begingroup \hfill\\Microsoft relációs adatbázis-kezelő rendszere, nagy népszerűségnek örvend, mivel fizetős alkalmazásokban is ingyenesen használható (az Express verzió).\nomeqref {3.0}
+		\nompageref{15}
+  \item [{MVCC (Multversion Concurrency Control)}]\begingroup \hfill\\Adatbázisoknál használt technika. Az adatbázis törlés esetén valójában nem töröl, csak törlésre jelöli az adott sort, illetve rekord frissítés esetén az adott rekord nem felülírásra kerül, hanem készül belőle egy újabb verzió. \\Az MVCC-t használó rendszerek nagy előnye, hogy könnyen vissza lehet állítani az adatokat egy korábbi verzióra.\nomeqref {4.0}
+		\nompageref{40}
+  \item [{MySQL}]\begingroup \hfill\\Az egyik legismertebb relációs adatbázis-kezelő rendszer, 2010 óta az Oracle Corpotation tulajdona, egyszerű a használata és könnyen integrálható a legtöbb programozási nyelvvel\nomeqref {3.0}
+		\nompageref{15}
+  \item [{NoSQL (not only SQL) adatbázis}]\begingroup \hfill\\NoSQL adatbázisnak szokás nevezni, minden olyan adatbázist, amely eltér a relációs adatbázisoktól (flexibilis sorméretek, JOIN műveletek elhagyása, jó skálázhatóság). A NoSQL rendszerek legismertebb típusa a dokumentum-orientált adatbázisok, így a kifejezéseket szinonimaként is szokás használni.\nomeqref {4.0}
+		\nompageref{22}
+  \item [{Oracle Database}]\begingroup \hfill\\Az Oracle Corporation egyik legismertebb terméke, relációs adatbázis-kezelő rendszer\nomeqref {3.0}
+		\nompageref{15}
+  \item [{PostgreSQL}]\begingroup \hfill\\Open-source relációs adatbázis-kezelő rendszer, a teljesen ingyenes használhatósága miatt közkedvelt mind az ingyenes, mind a fizetős alkalmazások között.\nomeqref {3.0}
+		\nompageref{15}
+  \item [{Reguláris kifejezés}]\begingroup \hfill\\A reguláris kifejezés segítségével, olyan szabályok hozhatók létre, melyekkel a szövegekben (a szabályok alapján) lehet keresni.\nomeqref {4.0}
+		\nompageref{35}
+  \item [{Replikáció}]\begingroup \hfill\\A replikáció során a rekordok egy másik adatbázis szerveren is megjelennek, ez lehet az adatbázis töredéke, vagy egésze is. Ha az egyik (master) adatbázisba történik rekord beillesztés, az automatikusan megjelenik a többiben is.\\Az alkalmazások a replikációt a következőképpen szokták alkalmazni: az egyik adatbázisszervert kinevezik mester adatbázisnak, az adatok beszúrása ebbe történik, míg a többi kliens adatbázisként jelenik meg, azonban a kliensekbe nem történik rekord beszúrás, ezekből mindössze adatkiolvasás. Ezzel az adatbázis-konfigurációval csökkenthető a mester szerver terhelése, amely a költséges írási műveleteket végzi, miközben a gyakrabban történő kiolvasási műveletek a kevésbé leterhelt kliens adatbázisából történik.\nomeqref {4.0}
+		\nompageref{25}
+  \item [{RESTful (Representational State Transfer)}]\begingroup \hfill\\A kliens és a szerver közötti adatkommunikáció lebonyolításának egyik lehetséges technikája. A HTTP/1.1 szabvány által definiált lehetőségekre épít, azaz nem csak GET kérésekkel kommunikál, hanem GET (lekérdezés), POST (létrehozás), PUT(létrehozás, frissítés), DELETE (törlés) kérésekkel.\\A weboldalakon gyakran alkalmazzák, ugyanis JavaScripttel végrehajtott AJAX (Asynchronous JavaScript and XML) kérésekben könnyebb az implementációja, mint más webszolgáltatásoknak (SOAP, RPC).\nomeqref {4.0}
+		\nompageref{27}
+  \item [{Sharding}]\begingroup \hfill\\A vertikális skálázás egyik formája, ilyenkor egy adatbázis szerver mesterként funkcionál, bár adatokat nem tárol, és a mester irányítja a shardingbe bevont kliens szerveket, melyek önállóan működnek, azonban egyik kliensen sincs meg a teljes adatbázis, mindegyik csak az információ egy részét tartalmazza.\\A kliensek nem tudják, hogy ők shardingbe vannak kötve.\nomeqref {1.0}
+		\nompageref{11}
+  \item [{SOAP (webservice)}]\begingroup \hfill\\A kliens és a szerver közti adatkommunikáció lebonyolítására használt protokoll. Az üzenetek XML formátumban kerülnek küldésre, melynek szigorú felépítése van, amit egy WSDL (Web Services Description Language) állomány ír le. \nomeqref {4.0}
+		\nompageref{27}
+  \item [{SQL (Structured Query Language)}]\begingroup \hfill\\Általában a relációs adatbázis-kezelők által használt lekérdező nyelv.\\Megalkotása az 1970-es években történt az IBM-nél.\nomeqref {3.0}
+		\nompageref{15}
+  \item [{SQLite}]\begingroup \hfill\\Kisméretű relációs adatbázis-kezelő rendszer. Az SQLite adatbázisnak nincs szerverkomponense, az adatbázis mindössze egy fájlból áll. A kis mérete és kompaktsága miatt szívesen alkalmazzák mind okostelefonokon, mind asztali alkalmazásokban (böngészők).\nomeqref {3.0}
+		\nompageref{15}
+  \item [{Twitter}]\begingroup \hfill\\Közösségi mikroblog szolgáltatás, segítségével a felhasználók maximum 140 karakterben tudnak egymásnak üzenni. \\Az oldalon már közel 200 millió hozzáférést regisztráltak. (\defcitealias{twitter_forbes}{Twitter Hits Nearly 200M Accounts, 2011}\citetalias{twitter_forbes})\nomeqref {4.0}
+		\nompageref{23}
+  \item [{W3C (World Wide Consortium)}]\begingroup \hfill\\Egy konzorcium, amelynek a webes technológiák fejlesztésének irányítása, és technológiai iránymutatás (ajánlások) a célja.\nomeqref {5.0}
+		\nompageref{42}
+  \item [{XML (Extensible Markup Language)}]\begingroup \hfill\\Az XML egy leírónyelv, az adatok strukturált tárolására.\nomeqref {4.0}
+		\nompageref{27}
+
+\end{thenomenclature}
